@@ -4,7 +4,7 @@
 
 Write tested code that accepts a numeric type and returns a truncated, "prettified" string version.
 The prettified version should include one number after the decimal when the truncated number is not an integer.
-It should prettify numbers greater than 6 digits and support millions, billions and trillions.
+It should prettify numbers greater than 6 digits and support millions, billions and trillions. This creates a more "human readable" format.
 
 **Examples**:
 ```
@@ -42,7 +42,7 @@ In your terminal:
 * Use this command to run the **code**:
 `python number_prettifier.py`
 
-* Use this command to to run the **unit tests**:
+* Use this command to run the **unit tests**:
 `python test_number_prettifier.py`
 
 After running the code you will be prompted to enter a numerical value.
