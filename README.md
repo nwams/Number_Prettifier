@@ -32,7 +32,7 @@ Divide by 1000 on each loop and stop when the final number is less than 1000. Th
 And it happens on this line inside the `while` loop:
 
 ```
-num = round(num / 1000.0, round_to)`
+num = round(num / 1000.0, round_to)
 ```
 
 ## Run Instructions
