@@ -1,6 +1,6 @@
 # Number Prettifier
 
-## Language: Python3
+## Language: Python
 
 Write tested code that accepts a numeric type and returns a truncated, "prettified" string version.
 The prettified version should include one number after the decimal when the truncated number is not an integer.
